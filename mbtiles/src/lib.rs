@@ -26,6 +26,7 @@ mod queries;
 pub use queries::*;
 
 mod summary;
+pub use summary::*;
 
 mod update;
 pub use update::UpdateZoomType;
